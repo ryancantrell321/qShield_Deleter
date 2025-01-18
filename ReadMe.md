@@ -1,5 +1,12 @@
 <h1>qBittorrent Cleanup Tool</h1>
 
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/python-3.12-darkgreen" alt="Python 3.12">
+    <img src="https://img.shields.io/badge/GPL-v3.0-orangered" alt="GPL v3.0">
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/ryancantrell321/qShield_Deleter/total">
+
+</div>
+
 <div class="section">
         <h2>Overview</h2>
         <p><strong>qBittorrent Cleanup Tool</strong> is a Python-based GUI application designed to help you easily delete the contents of the <code>qBittorrent</code> folders in the following locations:</p>
